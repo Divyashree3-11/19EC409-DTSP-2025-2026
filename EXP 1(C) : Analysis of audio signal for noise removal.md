@@ -115,15 +115,20 @@ plot_spec(estimated_noise, sr, "Spectrogram of Extracted Noise")
 ```
 # AUDIO SIGNAL USED :
 CLEAN/NORMAL AUDIO :[dtgf9edsfl7-hello-sfx-1.mp3](https://github.com/user-attachments/files/23606420/dtgf9edsfl7-hello-sfx-1.mp3)
+
 NOISE AUDIO : [bip-sound-189733.mp3](https://github.com/user-attachments/files/23606423/bip-sound-189733.mp3)
 # OUTPUT: 
 AUDIO SIGNAL COMBINED : [NOISE 2.wav](https://github.com/user-attachments/files/23606443/NOISE.2.wav)
+
 DENOISED SIGNAL : [DENIOSED.wav](https://github.com/user-attachments/files/23606463/DENIOSED.wav)
+
 EXTRACTED NOISE COMPONENT : [EXTRACTED NOISE COMPONENT1.wav](https://github.com/user-attachments/files/23606473/EXTRACTED.NOISE.COMPONENT1.wav)
+
 <img width="1129" height="545" alt="image" src="https://github.com/user-attachments/assets/9e76da6b-8088-4b2b-bf6a-525264fdee4f" />
 <img width="1130" height="537" alt="image" src="https://github.com/user-attachments/assets/873aa69a-0442-4395-8035-1e1bcb2782cc" />
 <img width="1137" height="516" alt="image" src="https://github.com/user-attachments/assets/7d10724f-810f-4818-891b-d98eb8ed724d" />
-# RESULT :
+
+## RESULT :
 Thus,the audio signal is analysed ,noise is added and then it is extracted using COLAB.
 
 
