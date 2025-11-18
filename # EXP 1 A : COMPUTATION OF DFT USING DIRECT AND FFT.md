@@ -1,8 +1,7 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
 
 # AIM: 
-
-# To Obtain DFT and FFT of a given sequence in SCILAB. 
+To Obtain DFT and FFT of a given sequence in SCILAB. 
 
 # APPARATUS REQUIRED: 
 PC installed with SCILAB. 
@@ -85,5 +84,6 @@ title('Inverse FFT OF X(K)');
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/480bd178-6f11-42df-9b34-d930099b313f" />
 # OUTPUT (FFT ):
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c6a784de-5cca-4a14-a048-a5ed9c169e7d" />
-# RESULT: 
+
+## RESULT: 
 Thus,The DFT and FFT of the given sequence is obtained using SCILAB.
